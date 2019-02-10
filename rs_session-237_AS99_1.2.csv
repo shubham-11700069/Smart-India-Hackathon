@@ -1,0 +1,195 @@
+S.No.,Product Name,MRP in Rs.,AMRIT Selling Rate (Rs.),Discount Offered (%),MANUFACTURER
+1,Temozolamide 250 mg cap,20391,1040.63,94.9,NAPROD
+2,Geftinib 250 mg Tab,3303,202.5,93.87,NAPROD
+3,Doxorubicin 10 mg Inj,820,50.63,93.83,VINKEM
+4,Anastrozole 1 mg Tab,694,45,93.52,GLOBELLA
+5,Docetaxel 120 mg Inj,13440,888.75,93.39,NAPROD
+6,Docetaxel 80 mg Inj,9269,646.88,93.02,NAPROD
+7,Bortezomib 2mg Inj,13400,1089,91.87,NAPROD
+8,Imatinib Mesylate 400 mg Cap,2810,292.5,89.59,NAPROD
+9,Paclitaxel 260 mg inj,9600,1013.63,89.44,GETWELL
+10,Paclitaxel 100 mg Inj,4400,474.75,89.21,GETWELL
+11,Gemcitbine Hydrochloride 200 mg Inj,966,106.88,88.94,VINKEM
+12,Lenalidomide 10 mg Cap,3000,337.5,88.75,NAPROD
+13,Paclitaxel 300 mg Inj,13500,1598.49,88.16,GETWELL
+14,Imatinib Mesylate 100 mg Cap,91.5,11.81,87.09,NAPROD
+15,Filgrastim 300 Mcg PFS Inj,2249,297.68,86.76,LUPIN
+16,Capecitabine 500 mg Tab,150,21.38,85.75,NAPROD
+17,Oxaliplatin 100 mg Inj,4400,627.75,85.73,GETWELL
+18,Pemetrexed 500 mg Inj,15500,2289.38,85.23,GETWELL
+19,Doxorubicin 50 mg Inj,975,153,84.31,NAPROD
+20,Oxaliplatin 50 mg Inj,2250,360,84,GETWELL
+21,Bendamustine 100 mg Inj,7800,1254.38,83.92,NAPROD
+22,Bortezomib 3.5 mg Inj,17500,2947.5,83.16,UNITED BIOTECH
+23,Doxorubicin 50 mg Inj - Ready to use,975,169.88,82.58,GETWELL
+24,Pemetrexed 100 mg Inj,3920,704.52,82.03,GETWELL
+25,Irinotecan 100 mg Inj,4095,736.74,82.01,CELON
+26,Calcium Leucovorin 50 mg Inj,253,46.18,81.75,GETWELL
+27,Lenalidomide 15 mg Cap,500,94.5,81.1,NAPROD
+28,Dacarbazine 500 mg Inj,1149,232.72,79.75,CELON
+29,Dacarbazine 200 mg Inj,450,92.39,79.47,CELON
+30,Epirubicin 50 mg Inj,2200,470.25,78.63,NAPROD
+31,Erlotinib 100 mg Tab,333.33,73.13,78.06,NAPROD
+32,Calcium Leucovorin 15 mg Inj,102,22.5,77.94,GETWELL
+33,Zoledronic Acid 4 mg Inj,680,150.75,77.83,VINKEM
+34,Temozolamide 100 mg Cap,500,118.13,76.38,AARK PHARMA
+35,Mercaptopurine 50 mg Tab,9.5,2.25,76.32,GLOBELLA
+36,Leucovorin 50mg,365,90.95,75.08,SHILPA
+37,Cytarabine 1 gm Inj,1180,304.71,74.18,VHB
+38,Abiraterone Acetate 250 mg Tab,105000,27337.5,73.96,GLENMARK
+39,Docetaxel 20 mg Inj - Ready to use,3840,1003.5,73.87,DR.REDDY LABS LTD.
+40,Doxorubicin 10 mg Inj - Ready to use,195,51.47,73.61,GETWELL
+41,Hydroxyurea 500 mg Cap,11.5,3.04,73.59,GLOBELLA
+42,Erythropoitin 40000IU PFS,9000,2421.56,73.09,EMCURE PHARMACEUTICALS
+43,Epirubicin 10 mg Inj,450,121.5,73,NAPROD
+44,Bortezumab 1 mg Inj,12080,3316.5,72.55,CADILA
+45,Thalidomide 50 mg Cap,40.5,11.25,72.22,GLOBELLA
+46,Filgrastim 300 Mcg Vial Inj,540,150.02,72.22,DR.REDDY LABS LTD.
+47,Granulocyte stimulating factor 300mcg,540,150.02,72.22,DR.REDDY LABS LTD.
+48,Thalidomide 100 mg Cap,60,16.88,71.87,GLOBELLA
+49,Methotrexate 2.5 mg Tab,35,10.05,71.3,CELON
+50,Lenalidomide 5 mg Cap,141.08,43.39,69.24,NAPROD
+51,Cyclophosphamide 500 mg Inj,72,22.15,69.23,HEALTH BIOTECH
+52,Paclitaxel 250 mg Inj,9588.1,3189.38,66.74,DRL
+53,Methortrexate 500 mg Inj,620,206.72,66.66,HEALTH BIOTECH
+54,Lenalidomide 25 mg Cap,7400,2480.5,66.48,NATCO
+55,Dacarbazine 100 mg Inj,250,84.2,66.32,CELON
+56,Mitomycin 40 mg Inj,2160,735.33,65.96,HEALTH BIOTECH
+57,Pegylated L Doxorubicin 20 mg Inj,8000,2728.69,65.89,AARK PHARMA
+58,Etoposide 100 mg Inj,180,62.75,65.14,VINKEM
+59,Cyclophosphamide 1 gm Inj,108,37.89,64.92,GETWELL
+60,Ferric Carboxymaltose 50 mg 10 ml Inj,1500,532.74,64.48,LUPIN
+61,Methortrexate 1 gm Inj,1200,428.21,64.32,HEALTH BIOTECH
+62,Cyclophosphamide 200 mg Inj,49.5,17.72,64.2,HEALTH BIOTECH
+63,Erythropoitin 10000IU PFS,2704,987.52,63.48,BIOCON LTD.
+64,Docetaxel 120 mg Inj - Ready to use,13500,4984.88,63.08,INTAS
+65,Melphalan 5 mg Tab,900,337.5,62.5,GLOBELLA
+66,Ritiximab 100 mg Inj,12500,4702.5,62.38,HETERO
+67,Pegylated L Doxorubicin 50 mg Inj,19800,7459.59,62.33,GETWELL
+68,Docetaxel 80 mg Inj - Ready to use,10500,3957.19,62.31,INTAS
+69,Gemcitbine Hydrochloride 1.4 g Inj,7400,2835,61.69,CELON
+70,Letrozole 2.5 mg Tab,95,36.62,61.45,CELON
+71,L-Asparaginase 5000 IU,1500,587.25,60.85,NAPROD
+72,Methotrexate 15 mg Inj,53,20.85,60.67,CELON
+73,Deferasirox 500 mg Tab,48,19.13,60.16,GLOBELLA
+74,Docetaxel 20 mg Inj,620,253.13,59.17,VINKEM
+75,5-Flurouracil 500 mg Inj,30,12.43,58.56,GETWELL
+76,5-Flurouracil 250 mg Inj,20,8.29,58.54,GETWELL
+77,Capsofungine 50mg Inj,9000,3741.03,58.43,CELON
+78,Capsofungine 70mg Inj,9000,3741.03,58.43,CELON
+79,Cyclophosphamide 50 mg Tab,3.95,1.65,58.13,BIOCHEM PHARMACEUTICALS
+80,Mitomycin 2 mg Inj,260,109.27,57.97,HEALTH BIOTECH
+81,Gemcitbine Hydrochloride 1 g Inj,1284,540,57.94,NEON
+82,Palonosetron Hydrochloride 0.250 mg Inj,138,58.5,57.61,GLENMARK
+83,Pamidronate 60mg,2390,1018.83,57.37,HEALTH BIOTECH
+84,Methotrexate 50 mg Inj,74,31.57,57.34,CELON
+85,Cytarabine 500 mg Inj,541,232.72,56.98,CELON
+86,Nano-Particle paclitaxel 100 mg Inj,16500,7117.03,56.87,ZYDUS
+87,Cyclosporin 100 mg Inj,3360.42,1452.94,56.76,RPG LIFESCIENCES
+88,Epirubicin 100 mg Inj,3620,1594.69,55.95,CELON
+89,Ibandronic Acid 150 mg Tab,162,72.62,55.17,DR.REDDY LABS LTD.
+90,Pamidronate 90mg,3490,1590.26,54.43,HEALTH BIOTECH
+92,Everolinmum 5 mg Tab,1250,576.28,53.9,DR.REDDY LABS LTD.
+93,Etoposide 50 mg Tab,70,32.56,53.49,GETWELL
+94,Ritiximab 500 mg Inj,42950,20217.09,52.93,HETERO
+95,Tamoxifen Citrate 20 mg Tab,3.1,1.49,52.1,CELON
+96,Carboplatin 600 mg Inj,6336,3118.5,50.78,ALKEM CYTOMED
+97,Cyclosporin 100 mg Sofgel,68.84,34.02,50.58,RPG LIFESCIENCES
+98,Tamoxifen Citrate 10 mg Tab,2,0.99,50.5,CELON
+99,Pamidronate 30mg,1420,713.18,49.78,HEALTH BIOTECH
+100,Melphalan 2 mg Tab,400,202.5,49.38,GLOBELLA
+101,Vinorelbine 50 mg Inj,11700,5953.5,49.12,ALKEM CYTOMED
+102,Chlorambucil 2 mg Tab,50.5,25.72,49.07,CELON
+103,Carboplatin 450 mg Inj,2561.57,1316.25,48.62,FRESENIUS KABI
+104,Mitomycin 10 mg Inj,690,357.33,48.21,HEALTH BIOTECH
+105,Daunorubicin 20 mg Inj,360,187.93,47.8,VHB
+106,Everolinmum 10 mg Tab,2002,1074.94,46.31,DR.REDDY LABS LTD.
+107,Arsenic Trioxide 10 mg Inj,429,233.89,45.48,ALKEM CYTOMED
+108,Cyclosporin 25 mg Sofgel,21.03,11.58,44.96,RPG LIFESCIENCES
+109,Epirubicin 150 mg Inj,6480,3614.63,44.22,ALKEM CYTOMED
+110,Fludarabine Phosphat 50 mg Inj,10791,6142.5,43.08,INTAS PHARMA
+111,Apprepitant 125/80mg Combi pack Cap,1300,742.5,42.88,HETERO
+112,Leuprolide Acetate 11.25 mg Inj,9272,5315.63,42.67,CELON
+113,vinblastin Sulphate 10 mg Inj,280,163.13,41.74,VINKEM
+114,Decitabin 50 mg Inj,8100,4724.94,41.67,DR.REDDY LABS LTD.
+115,Bleomycin 15 mg Inj,688,404.35,41.23,CELON
+116,Cisplatin 50 mg Inj,350,207.9,40.6,HETERO
+117,Deferasirox 250 mg Tab,24.1,14.63,39.32,GLOBELLA
+118,Non Peglected Liposomal doxorubicin Inj 20 mg,9650,5906.25,38.8,ZYDUS
+119,Ifosfamide 2 gm Inj,504,312.75,37.95,SHYAM PHARMA
+120,Ifosfamide 1 gm Inj,325,202.5,37.69,NEON
+121,Cyclosporin 50 mg Sofgel,36.33,23.39,35.62,RPG LIFESCIENCES
+122,PEG Filgastim 6 mg Inj,5500,3543.75,35.57,ZYDUS
+123,Chlorambucil 5 mg Tab,81.67,52.62,35.57,CELON
+124,Cisplatin 10 mg Inj,88,57.38,34.8,VINKEM
+125,Paclitaxel 30 mg Inj,312,203.63,34.74,VINKEM
+126,Megestrol Acetate 160 mg Tab,81,53.16,34.38,ALKEM CYTOMED
+127,Megestrol Acetate 40 mg Tab,22.5,14.88,33.85,ALKEM CYTOMED
+128,Carboplatin Lyophilized 450 mg Inj,2700,1856.25,31.25,CELON
+129,Intereferon 5 MIU Inj,884,614.25,30.51,INTAS
+130,Vincristine Sulphate 1 mg Inj,56,38.98,30.39,CELON
+131,Fulvestrant 500 mg Inj,20700,14883.75,28.1,ALKEM CYTOMED
+132,Exemestane 25 mg Tab,32,23.15,27.65,CELON
+133,Fulvestrant 250 mg Inj,20700,15187.5,26.63,GLENMARK
+134,Erlotinib 150 mg Tab,558,410.83,26.37,DR.REDDY LABS LTD.
+135,Trastuzumab 440 mg Inj,57500,42525,26.04,AARK PHARMA
+136,Darbopoetin 100 mg Inj,5690,4211.16,25.99,DR.REDDY LABS LTD.
+137,Cytarabine 100 mg Inj,76,56.25,25.99,VINKEM
+138,Darbopoetin 200 mg Inj,10570,7855.31,25.68,DR.REDDY LABS LTD.
+139,Carboplatin Lyophilized 150 mg Inj,875,652.5,25.43,CELON
+140,Soraffenib 200 mg Tab,8950,6862.5,23.32,NATCO
+141,Pazopanib 400 mg Tab,14500,11298,22.08,GLAXO
+142,Vinorelbine 10 mg Inj,2700,2126.25,21.25,ALKEM CYTOMED
+143,Nimotuzumab 200 mg Inj,49500,42000,15.15,BIOCON
+144,Epirubicin 50 mg Inj - Ready to use,2012,1721.08,14.46,ZYDUS
+145,Sunitinib 50 mg Tab,61000,52312.5,14.24,PFIZER
+146,Sunitinib 12.5 mg Tab 7's,15200,13078.13,13.96,PFIZER
+147,Sunitinib 25 mg Tab,30400,26156.25,13.96,PFIZER
+148,Ibandronic Acid 50 mg Tab,54.6,47,13.92,AUREATE HEALTHCARE
+149,Procarbazine HCL 50 mg Cap,36.68,31.89,13.05,ALKEM CYTOMED
+150,Gosereline Acetate 10.8 mg Inj,28890,25264.58,12.55,ASTRA
+151,Mesna 100 mg Inj,41.8,36.58,12.5,ZYDUS
+152,Tegafur/Uracil 100 mg/224 mg Cap,141.6,123.9,12.5,"TTY BIOPHARM,LUPIN LTD."
+153,Bevacizuma 100 mg Inj,28022,24519.25,12.5,SHYAM PHARMA
+154,Cetuximab 100 mg,20222,17694.25,12.5,MERCK
+155,Cetuximab 500 mg Inj,101110,88471.25,12.5,MERCK
+156,Eltrombopag Olamine 25 mg Tab,710,621.25,12.5,GLAXO
+157,Eltrombopag Olamine 50 mg Tab,1420,1242.5,12.5,GLAXO
+158,Ibadronic Acid 6 mg Inj,2500,2187.5,12.5,AUREATE HEALTHCARE
+159,Idarubicin 5 mg Inj,6771,5924.63,12.5,PFIZER
+160,Lapatinib Ditosylate 250 mg Tab,267,233.63,12.5,GLAXO
+161,L-Asparaginase 10000 IU,1000,875,12.5,NAPROD
+162,Non Peglected Liposomal doxorubicin Inj 50 mg,20490,17928.75,12.5,ZYDUS
+163,Temsirolimus 25 mg Inj,74300,65012.5,12.5,PFIZER
+164,Trastuzumab 150 mg Inj,17800,15575,12.5,BIOCON LTD.
+165,Busulphan 2 mg Tab,3.8,3.33,12.37,CELON
+166,Pazopanib 200 mg Tab,7250,6355.13,12.34,GLAXO
+167,Dasatinib 20 mg Tab 30's,1380.33,1216.33,11.88,BRISTOL
+168,Dasatinib 50 mg Tab 30's,2761.33,2433.25,11.88,BRISTOL
+169,Dasatinib 70 mg Tab,2953.67,2602.74,11.88,BRISTOL
+170,Cisplatin 100 mg Inj,94,84.6,10,CELON
+171,Trabectedin 1 mg Inj,121486,109337.4,10,JANSSEN PHARMA
+172,Intereferon 3 MIU Inj,1315.75,1184.18,10,ROCHE
+173,Nano-Particle paclitaxel 300 mg Inj,7380.95,6642.86,10,ALKEM
+174,Mitoxantrone 20 mg Inj,443.7,399.33,10,BIOCHEM
+175,Pegylated L Doxorubicin 10 mg Inj,4013.62,3612.26,10,SUN PHARMA
+176,Estramustine Phosphate 140 mg Tab,13415.8,12074.22,10,NATCO
+177,Busulphan 60 mg Inj,5100,4590,10,CELON
+178,Cabazitaxel 60 mg Inj,330000,297000,10,EMCURE
+179,Dactinomycin D 500 mg Inj,445,400.5,10,CELON
+180,Estramustine Phosphate 140 mg Tab,13415.8,12074.22,10,NATCO
+181,Ferric Carboxymaltose 50 mg 2 ml Inj,950,855,10,LUPIN
+182,Ferric Carboxymaltose 50 mg 10 ml Inj,2900,2610,10,LUPIN
+183,Filgrastim 300 mcg Inj,2249.9,2024.91,10,EMCURE
+184,Ifosfamide 0.5 gm Inj,316.9,285.21,10,ZYDUS
+185,Methotrexate 15mg Tab,52.5,47.25,10,BIOCHEM
+186,Octreotide LA 10 mg Inj,9995,8995.5,10,SUN PHARMA
+187,Octreotide LA 30 mg Inj,21800,19620,10,SUN PHARMA
+188,Rasburicase 1.5 mg Inj,15000,13500,10,EMCURE
+189,Nano-Particle Paclitaxel 30 mg Inj,1909.63,1718.67,10,ALKEM
+190,Octreotide LA 20 mg Inj,16952.4,15257.16,10,SUN PHARMA
+191,Tibolone 2.5 mg Tab,218.8,196.92,10,SERUM INSTITUTE
+192,Carmustine 100 mg Inj,3497,3147.3,10,EMCURE
+193,Topotecan Hydrochloride 2.5 mg Inj,4902.8,4412.52,10,FRESIENUS KABI
+194,Gosereline Acetate 3.6 mg Inj,9754,8859.38,9.17,ASTRA
+195,Anti-Thymocyte Immunoglobuline 250 mg Inj,8300,7560,8.92,BHARAT SERUM
